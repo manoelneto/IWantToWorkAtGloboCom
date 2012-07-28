@@ -1,9 +1,68 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Programador Python
+Programador Javascript
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Manoel Quirino Neto
+Brasileiro, solteiro, 20 anos
+Rua Francisco de Oliveira Porto, 182, condomínio Jardins II, apt 302, Brisamar, João Pessoa - PB
+Telefone: (83) 8806-1413 / E-mail: manoelifpb@gmail.com
+
+
+ 
+FORMAÇÃO
+ 
+ 
+     Graduando em Tecnologia em Redes de Computadores, IFPB, conclusão em 2012(já devia estar formado por causa da greve)
+
+ 
+
+EXPERIÊNCIA PROFISSIONAL
+ 
+ 
+     2010 – 2011 Hostdime Brasil - (hostdime.com.br - João Pessoa - PB)
+Cargo: Estagiário/Suporte. 
+Principais atividades: Configuração de servidores (HTTP, e-mail, DNS, Banco de Dados, FTP), suporte ao cliente.
+Manutenção de alguns scripts, como o de gerar prova de sobrecarga (load) para que seja gerada em forma de tabea em HTML.
+
+2011 - Agora - Soda Virtual (sodavirtual.com.br - João Pessoa - PB)
+Cargo: Estágiário/Programador python e javascript
+Principais Atividades: Animação em Javascript, criação de aplicações em python/django para os sites da empresa.
+
+QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS
+ 
+ 
+     Inglês – Médio (Real Time English, 3 anos, conclusão em 2008).
+
+ 
+INFORMAÇÕES ADICIONAIS
+ 
+Apesar de fazer o curso de redes de computadores, sempre fui apaixonado por programação.
+Desde quando fiz meu primeiro hello word em C++, já vi que era isso que sempre quis.
+Sempre aprendi programação sozinho.
+Na Soda virtual, fiz parte de vários projetos, uns eram apenas animações em javascript, outros eram em python, ou ambas
+as linguagens.
+Por exemplo, o site festivalmundo.com.br foi um dos primeiros que fiz. Ainda estava verde mas tentei fazer o máximo
+para que o site funcionasse da melhor forma.
+
+Ainda sou verde em desempenho de aplicações em javascript, mas com meu talento e perseverança para aprender, tenho certeza
+que serei de extrema importância para globo.com.
+
+Ah, gosto muito de trabalhar com js puro. :)
+
+Não sei se isso faz importância ou não, mas meu sonho sempre foi trabalhar na globo.com.
+Caso não seja hoje, será algum dia, vou lutar por isso.
+
+Alguns projetos:
+festivalmundo.com.br - animação
+http://persifilm.sodateste.com.br/ - animação, ajax e backend (python-django).
+cicero45.com.br - animação do vídeo, api google maps e backend python
+serra45.com.br - animação do vídeo estilo de cícero, api google maps e parte do backend python.
+cabobranco.fm.br - suporte ao player
+
+
+ 
